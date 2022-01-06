@@ -1,12 +1,12 @@
 {
     "jurisdiction": {
-      "name": "XXX",
-      "id": "Qxxx"
+      "name": "Ghana",
+      "id": "Q117"
     },
     "cabinet": {
-      "id": "Qxxx",
-      "start": "YYYY-MM-DD",
-      "parent": "Qxxx"
+      "id": "Q39054343",
+      "start": "2017-05",
+      "parent": "Q47092681"
     },
     "source": {
         "url":   "XXX",
@@ -16,5 +16,5 @@
             "wikidata": "Q1860"
         }
     },
-    "agent": "every-politican-scrapers/XXX"
+    "agent": "every-politican-scrapers/ghana-ministers"
 }
