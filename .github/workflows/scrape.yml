@@ -1,0 +1,11 @@
+name: Compare external data
+
+on:
+  schedule:
+    - cron:  '14 2 * * *'
+  workflow_dispatch: {}
+  workflow_call: {}
+
+jobs:
+  scheduled:
+    uses: every-politician-scrapers/shared/.github/workflows/compare.yml@main

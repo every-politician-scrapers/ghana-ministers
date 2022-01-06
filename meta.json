@@ -1,0 +1,20 @@
+{
+    "jurisdiction": {
+      "name": "XXX",
+      "id": "Qxxx"
+    },
+    "cabinet": {
+      "id": "Qxxx",
+      "start": "YYYY-MM-DD",
+      "parent": "Qxxx"
+    },
+    "source": {
+        "url":   "XXX",
+        "title": "XXX",
+        "lang":  {
+            "code": "en",
+            "wikidata": "Q1860"
+        }
+    },
+    "agent": "every-politican-scrapers/XXX"
+}

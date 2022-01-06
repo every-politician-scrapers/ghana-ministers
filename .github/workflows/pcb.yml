@@ -1,0 +1,10 @@
+name: Generate PCB
+
+on:
+  schedule:
+    - cron:  '44 3 * * *'
+  workflow_dispatch: {}
+
+jobs:
+  scheduled:
+    uses: every-politician-scrapers/shared/.github/workflows/pcb.yml@main

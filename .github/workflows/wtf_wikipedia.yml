@@ -1,0 +1,10 @@
+name: wtf_wikipedia
+
+on:
+  schedule:
+    - cron:  '14 4 * * *'
+  workflow_dispatch: {}
+
+jobs:
+  scheduled:
+    uses: every-politician-scrapers/shared/.github/workflows/wtf_wikipedia.yml@main

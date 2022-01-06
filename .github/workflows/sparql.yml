@@ -1,0 +1,10 @@
+name: Run sparql queries
+
+on:
+  schedule:
+    - cron:  '44 1 * * *'
+  workflow_dispatch: {}
+
+jobs:
+  scheduled:
+    uses: every-politician-scrapers/shared/.github/workflows/sparql.yml@main
