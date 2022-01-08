@@ -1,0 +1,281 @@
+{
+  "title": "Shirley Ayorkor Botchway",
+  "pageID": 51518127,
+  "categories": [
+    "1963 births",
+    "Living people",
+    "New Patriotic Party politicians",
+    "Foreign ministers of Ghana",
+    "Ghanaian Anglicans",
+    "University of Westminster",
+    "University of Ghana alumni",
+    "Cabinet Ministers of Ghana",
+    "21st-century Ghanaian politicians",
+    "21st-century Ghanaian women politicians",
+    "Female foreign ministers",
+    "Women government ministers of Ghana",
+    "Ghanaian women diplomats",
+    "St Mary's Senior High School (Ghana) alumni"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Shirley Ayorkor Botchwey (born 8 February 1963), is a Ghanaian politician.",
+              "links": [
+                {
+                  "text": "Ghanaian",
+                  "type": "internal",
+                  "page": "Ghanaian people"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Shirley Ayorkor Botchwey"
+                ]
+              }
+            },
+            {
+              "text": "She was appointed by President of Ghana Nana Akuffo-Addo as Minister of Foreign Affairs on 10 January 2017.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "President of Ghana"
+                },
+                {
+                  "type": "internal",
+                  "page": "Nana Akuffo-Addo"
+                },
+                {
+                  "text": "Minister of Foreign Affairs",
+                  "type": "internal",
+                  "page": "Minister for Foreign Affairs (Ghana)"
+                }
+              ]
+            },
+            {
+              "text": "She is also the former Member of Parliament for Anyaa-Sowutuom and once served as Deputy Minister of Foreign Affairs.",
+              "links": [
+                {
+                  "text": "Anyaa-Sowutuom",
+                  "type": "internal",
+                  "page": "Anyaa-Sowutuom (Ghana parliamentary constituency)"
+                }
+              ]
+            },
+            {
+              "text": "She is a member of the New Patriotic Party.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "New Patriotic Party"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Ghanaian politician",
+          "bot": "PearBOT 5",
+          "template": "short description"
+        },
+        {
+          "year": "1963",
+          "month": "02",
+          "day": "08",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Shirley Ayorkor Botchwey"
+          },
+          "image": {
+            "text": "Shirley Ayorkor Botchway.jpg"
+          },
+          "office": {
+            "text": "Minister for Foreign Affairs and Regional Integration",
+            "links": [
+              {
+                "text": "Minister for Foreign Affairs and Regional Integration",
+                "type": "internal",
+                "page": "Minister for Foreign Affairs (Ghana)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "28 January 2017"
+          },
+          "president": {
+            "text": "Nana Akufo-Addo",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nana Akufo-Addo"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Hanna Tetteh",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hanna Tetteh"
+              }
+            ]
+          },
+          "constituency_mp1": {
+            "text": "Anyaa Sowotuom",
+            "links": [
+              {
+                "text": "Anyaa Sowotuom",
+                "type": "internal",
+                "page": "Anyaa-Sowutuom (Ghana parliamentary constituency)"
+              }
+            ]
+          },
+          "parliament1": {
+            "text": "Ghana"
+          },
+          "majority1": {
+            "text": "4,545",
+            "number": 4545
+          },
+          "term_start1": {
+            "text": "7 January 2013"
+          },
+          "president1": {
+            "text": "John Mahama",
+            "links": [
+              {
+                "text": "John Mahama",
+                "type": "internal",
+                "page": "John Dramani Mahama"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "New constituency",
+            "formatting": {
+              "italic": [
+                "New constituency"
+              ]
+            }
+          },
+          "prior_term": {
+            "text": "MP for Awutu-Senya",
+            "links": [
+              {
+                "text": "MP for Awutu-Senya",
+                "type": "internal",
+                "page": "Awutu-Senya (Ghana parliament constituency)"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Deputy Minister for Foreign Affairs",
+            "links": [
+              {
+                "text": "Deputy Minister for Foreign Affairs",
+                "type": "internal",
+                "page": "Deputy Minister for Foreign Affairs (Ghana)"
+              }
+            ]
+          },
+          "president2": {
+            "text": "John Kufour",
+            "links": [
+              {
+                "type": "internal",
+                "page": "John Kufour"
+              }
+            ]
+          },
+          "office3": {
+            "text": "Deputy Minister for the Information (Ghana)"
+          },
+          "term_end3": {
+            "text": "January 2013"
+          },
+          "president3": {
+            "text": "John Atta Mills John Mahama",
+            "links": [
+              {
+                "type": "internal",
+                "page": "John Atta Mills"
+              },
+              {
+                "text": "John Mahama",
+                "type": "internal",
+                "page": "John Dramani Mahama"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "February 8, 1963"
+          },
+          "birth_place": {
+            "text": "Accra, Ghana",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Accra"
+              },
+              {
+                "type": "internal",
+                "page": "Ghana"
+              }
+            ]
+          },
+          "birthname": {
+            "text": "Shirley Ayorkor Botchwey"
+          },
+          "party": {
+            "text": "New Patriotic Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "New Patriotic Party"
+              }
+            ]
+          },
+          "children": {
+            "text": "Two"
+          },
+          "alma_mater": {
+            "text": "University of Ghana, Grays Inn, London",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Ghana"
+              }
+            ]
+          },
+          "profession": {
+            "text": "Journalist",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Journalist"
+              }
+            ]
+          },
+          "cabinet": {
+            "text": "Minister"
+          },
+          "committees": {
+            "text": "Gender and Children Committee\nCommunications Committee"
+          }
+        }
+      ]
+    }
+  ]
+}

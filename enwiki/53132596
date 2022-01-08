@@ -1,0 +1,66 @@
+{
+  "title": "Kwaku Agyemang-Manu",
+  "pageID": 53132596,
+  "categories": [
+    "1955 births",
+    "Living people",
+    "Ghanaian Christians",
+    "People from Brong-Ahafo Region",
+    "New Patriotic Party politicians",
+    "Cabinet Ministers of Ghana",
+    "University of Ghana alumni",
+    "Health ministers of Ghana",
+    "Ghanaian MPs 2021–2025"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Kwaku Agyeman-Manu (born September 6, 1955) a Ghanaian politician.",
+              "links": [
+                {
+                  "text": "Ghanaian",
+                  "type": "internal",
+                  "page": "Ghanaian people"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Kwaku Agyeman-Manu"
+                ]
+              }
+            },
+            {
+              "text": "He is the Member of Parliament for Dormaa Central and the Minister of Health.",
+              "links": [
+                {
+                  "text": "Dormaa Central",
+                  "type": "internal",
+                  "page": "Dormaa Central (Ghana parliament constituency)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Minister of Health"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Ghanaian politician",
+          "template": "short description"
+        },
+        {
+          "date": "June 2020",
+          "template": "blp sources"
+        }
+      ]
+    }
+  ]
+}
