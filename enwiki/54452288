@@ -1,0 +1,239 @@
+{
+  "title": "Owusu Afriyie Akoto",
+  "pageID": 54452288,
+  "categories": [
+    "1949 births",
+    "Living people",
+    "Ghanaian MPs 2013–2017",
+    "Ghanaian MPs 2009–2013",
+    "Ghanaian economists",
+    "Agriculture ministers of Ghana",
+    "Cabinet Ministers of Ghana",
+    "New Patriotic Party politicians",
+    "Ghanaian academics",
+    "Alumni of the University of Cambridge",
+    "University of Ghana alumni",
+    "People from Ashanti Region",
+    "Alumni of Opoku Ware School"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Owusu Afriyie Akoto (born 19 October 1949) is a Ghanaian agricultural economist and politician.",
+              "links": [
+                {
+                  "text": "Ghanaian",
+                  "type": "internal",
+                  "page": "Ghanaian people"
+                },
+                {
+                  "text": "agricultural economist",
+                  "type": "internal",
+                  "page": "Agricultural economics"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Owusu Afriyie Akoto"
+                ]
+              }
+            },
+            {
+              "text": "He is a member of the New Patriotic Party and was Member of Parliament for the Kwadaso Constituency from 2009 to 2017.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "New Patriotic Party"
+                },
+                {
+                  "text": "Kwadaso Constituency",
+                  "type": "internal",
+                  "page": "Kwadaso (Ghana parliament constituency)"
+                }
+              ]
+            },
+            {
+              "text": "He is currently a cabinet minister in the Nana Akufo-Addo administration and serves as the Minister of Food and Agriculture of Ghana since 2017.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Nana Akufo-Addo"
+                },
+                {
+                  "text": "Minister of Food and Agriculture",
+                  "type": "internal",
+                  "page": "Ministry of Food and Agriculture (Ghana)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "March 2018",
+          "template": "engvarb"
+        },
+        {
+          "date": "March 2018",
+          "template": "use dmy dates"
+        },
+        {
+          "df": "y",
+          "year": "1949",
+          "month": "10",
+          "day": "19",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Owusu Afriyie Akoto"
+          },
+          "image": {
+            "text": "Owusu Afriyie Akoto 2019 (cropped).jpg"
+          },
+          "caption": {
+            "text": "Owusu Afriyie Akoto in 2019"
+          },
+          "office": {
+            "text": "Minister of Food and Agriculture"
+          },
+          "term_start": {
+            "text": "February 2017"
+          },
+          "president": {
+            "text": "Nana Akuffo-Addo",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nana Akuffo-Addo"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Fiifi Kwetey",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Fiifi Kwetey"
+              }
+            ]
+          },
+          "successor": {
+            "text": "Incumbent",
+            "formatting": {
+              "italic": [
+                "Incumbent"
+              ]
+            }
+          },
+          "office1": {
+            "text": "MP for Kwadaso"
+          },
+          "term_start1": {
+            "text": "January 2009"
+          },
+          "term_end1": {
+            "text": "January 2017"
+          },
+          "president1": {
+            "text": "John Evans Atta Mills\nJohn Dramani Mahama",
+            "links": [
+              {
+                "type": "internal",
+                "page": "John Evans Atta Mills"
+              },
+              {
+                "type": "internal",
+                "page": "John Dramani Mahama"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Josephine Hilda Addo",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Josephine Hilda Addo"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Samiu Kwadwo Nuamah",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Samiu Kwadwo Nuamah"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "October 19, 1949"
+          },
+          "birth_place": {
+            "text": "Koforidua, Ghana",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Koforidua"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Ghanaian"
+          },
+          "party": {
+            "text": "New Patriotic Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "New Patriotic Party"
+              }
+            ]
+          },
+          "children": {
+            "text": "8",
+            "number": 8
+          },
+          "relatives": {
+            "text": "Bafuor Osei Akoto, father",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bafuor Osei Akoto"
+              }
+            ]
+          },
+          "education": {
+            "text": "B.S. agriculture, University of Ghana\nM.S. agricultural economics, Cambridge University\nPhD, Cambridge University, 1985",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Ghana"
+              },
+              {
+                "text": "agricultural economics",
+                "type": "internal",
+                "page": "agricultural economics"
+              },
+              {
+                "type": "internal",
+                "page": "Cambridge University"
+              }
+            ]
+          },
+          "profession": {
+            "text": "Agricultural economist"
+          }
+        }
+      ]
+    }
+  ]
+}

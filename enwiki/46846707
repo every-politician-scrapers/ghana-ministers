@@ -1,0 +1,195 @@
+{
+  "title": "Ken Ofori-Atta",
+  "pageID": 46846707,
+  "categories": [
+    "1959 births",
+    "Living people",
+    "Akan people",
+    "Columbia College (New York) alumni",
+    "Yale School of Management alumni",
+    "Alumni of Achimota School",
+    "New Patriotic Party politicians",
+    "Cabinet Ministers of Ghana",
+    "Finance ministers of Ghana",
+    "People from Eastern Region (Ghana)",
+    "Ofori-Atta family"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": " Kenneth Nana Yaw Ofori-Atta (born 7 November 1958), is a Ghanaian investment banker who serves as the Minister for Finance and Economic Planning in the cabinet of Nana Akufo-Addo.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Minister for Finance and Economic Planning"
+                },
+                {
+                  "text": "cabinet of Nana Akufo-Addo",
+                  "type": "internal",
+                  "page": "cabinet of Nana Akufo-Addo"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  " Kenneth Nana Yaw Ofori-Atta"
+                ]
+              }
+            },
+            {
+              "text": "He was a co-founder of Databank Group, a Ghanaian financial services company, and served as executive chairman until 2012, when he resigned.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Databank Group"
+                }
+              ]
+            },
+            {
+              "text": "He was nominated by President Nana Akufo-Addo on 10 January 2017 and assumed office on 27 January 2017.",
+              "links": [
+                {
+                  "text": "President",
+                  "type": "internal",
+                  "page": "President of Ghana"
+                },
+                {
+                  "type": "internal",
+                  "page": "Nana Akufo-Addo"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Ghanaian investment banker and government official",
+          "template": "short description"
+        },
+        {
+          "year": "1959",
+          "month": "11",
+          "day": "07",
+          "df": "yes",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Ken Ofori-Atta"
+          },
+          "image": {
+            "text": "File:Ken Ofori-Atta.jpg"
+          },
+          "caption": {
+            "text": "Ken Ofori-Atta speaking at the 2018 Capital Market Week."
+          },
+          "order": {
+            "text": "18th"
+          },
+          "office": {
+            "text": "Minister for Finance and Economic Planning"
+          },
+          "term_start": {
+            "text": "27 January 2017"
+          },
+          "deputy": {
+            "text": "Kwaku Agyeman Kwarteng Abena Osei Asare Charles Adu Boahen",
+            "links": [
+              {
+                "text": "Kwaku Agyeman Kwarteng",
+                "type": "internal",
+                "page": "Kwaku Kwarteng"
+              },
+              {
+                "type": "internal",
+                "page": "Abena Osei Asare"
+              },
+              {
+                "type": "internal",
+                "page": "Charles Adu Boahen"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Seth Terkper",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Seth Terkper"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "November 7, 1959"
+          },
+          "birth_place": {
+            "text": "Kibi, Eastern Region, Ghana",
+            "links": [
+              {
+                "text": "Kibi",
+                "type": "internal",
+                "page": "Kibi, Ghana"
+              },
+              {
+                "text": "Eastern Region",
+                "type": "internal",
+                "page": "Eastern Region (Ghana)"
+              },
+              {
+                "type": "internal",
+                "page": "Ghana"
+              }
+            ]
+          },
+          "birthname": {
+            "text": "Kenneth Ofori-Atta"
+          },
+          "nationality": {
+            "text": "Ghanaian",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ghanaian"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Angela Lamensdorf Ofori-Atta"
+          },
+          "relatives": {
+            "text": "Nana Akufo-Addo (cousin)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nana Akufo-Addo"
+              }
+            ]
+          },
+          "children": {
+            "text": "4",
+            "number": 4
+          },
+          "occupation": {
+            "text": "Economist · Investment banker · Politician"
+          },
+          "parents": {
+            "text": "Jones Ofori Atta",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jones Ofori Atta"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

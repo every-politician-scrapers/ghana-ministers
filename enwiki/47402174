@@ -1,0 +1,205 @@
+{
+  "title": "Ursula Owusu",
+  "pageID": 47402174,
+  "categories": [
+    "1964 births",
+    "Living people",
+    "People from Eastern Region (Ghana)",
+    "New Patriotic Party politicians",
+    "Ghanaian MPs 2013–2017",
+    "Ghanaian MPs 2017–2021",
+    "21st-century women politicians",
+    "University of Ghana alumni",
+    "Ghana School of Law alumni",
+    "Mfantsiman Girls' Secondary School alumni",
+    "Women members of the Parliament of Ghana",
+    "Ghanaian MPs 2021–2025"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Ursula Owusu-Ekuful (born 20 October 1964) is a lawyer, women's rights activist and a Ghanaian parliamentarian representing Ablekuma West constituency.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ghanaian"
+                },
+                {
+                  "text": "Ablekuma West constituency",
+                  "type": "internal",
+                  "page": "Ablekuma West (Ghana parliament constituency)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Ursula Owusu-Ekuful"
+                ]
+              }
+            },
+            {
+              "text": "She is currently the Minister of Communications and Digitalisation.",
+              "links": [
+                {
+                  "text": "Minister of Communications and Digitalisation",
+                  "type": "internal",
+                  "page": "Minister for Communications (Ghana)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Ghanaian lawyer and politician",
+          "template": "short description"
+        },
+        {
+          "date": "August 2020",
+          "template": "use dmy dates"
+        },
+        {
+          "year": "1964",
+          "month": "10",
+          "day": "20",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "Hon."
+          },
+          "name": {
+            "text": "Ursula Owusu-Ekuful"
+          },
+          "honorific-suffix": {
+            "text": "MP"
+          },
+          "image": {
+            "text": "H.E. Ursula G. Owusu-Ekuful, Minister of Communications of Ghana.jpg"
+          },
+          "constituency_mp": {
+            "text": "Ablekuma West constituency",
+            "links": [
+              {
+                "text": "Ablekuma West constituency",
+                "type": "internal",
+                "page": "Ablekuma West (Ghana parliament constituency)"
+              }
+            ]
+          },
+          "parliament": {
+            "text": "Ghana"
+          },
+          "term_start": {
+            "text": "7 January 2013"
+          },
+          "predecessor": {
+            "text": "new constituency",
+            "formatting": {
+              "italic": [
+                "new constituency"
+              ]
+            }
+          },
+          "office2": {
+            "text": "Minister for Communications",
+            "links": [
+              {
+                "text": "Minister for Communications",
+                "type": "internal",
+                "page": "Minister for Communications (Ghana)"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "February 2017"
+          },
+          "president2": {
+            "text": "Nana Akufo-Addo",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nana Akufo-Addo"
+              }
+            ]
+          },
+          "predecessor2": {
+            "text": "Edward Omane Boamah",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Edward Omane Boamah"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "October 20, 1964"
+          },
+          "birth_place": {
+            "text": "Akim Oda, Ghana",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Akim Oda"
+              },
+              {
+                "type": "internal",
+                "page": "Ghana"
+              }
+            ]
+          },
+          "party": {
+            "text": "New Patriotic Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "New Patriotic Party"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Dr. Sam Ekuful"
+          },
+          "children": {
+            "text": "3",
+            "number": 3
+          },
+          "alma_mater": {
+            "text": "University of Ghana Labone Senior High School Mfantsiman Girls' Secondary School",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Ghana"
+              },
+              {
+                "type": "internal",
+                "page": "Labone Senior High School"
+              },
+              {
+                "type": "internal",
+                "page": "Mfantsiman Girls' Secondary School"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Parliamentarian"
+          },
+          "profession": {
+            "text": "Lawyer"
+          },
+          "cabinet": {
+            "text": "Minister"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "title": "Mohammed Adjei Sowah",
+  "pageID": 54779247,
+  "categories": [
+    "Living people",
+    "Mayors of Accra",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Mohammed Adjei Sowah is the mayor of Accra, Ghana.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Accra"
+                },
+                {
+                  "type": "internal",
+                  "page": "Ghana"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Mohammed Adjei Sowah"
+                ]
+              }
+            },
+            {
+              "text": "His appointment was confirmed on 24 March 2017 when he received 100% of the 109 votes cast in the Accra Metropolitan Assembly.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Accra Metropolitan Assembly"
+                }
+              ]
+            },
+            {
+              "text": "His major priority is to improve the sanitation of Accra, especially in relation to waste collection and disposal and sanitation infrastructure, such as landfills."
+            },
+            {
+              "text": "To do this he has supported the polluter pays system, transfer stations to aid in waste collection, and the Accra Beautification Project, which aims to improve the public open areas of the city.",
+              "links": [
+                {
+                  "text": "polluter pays system",
+                  "type": "internal",
+                  "page": "Polluter pays principle"
+                },
+                {
+                  "text": "transfer stations",
+                  "type": "internal",
+                  "page": "Transfer station (waste management)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Ghanaian politician",
+          "template": "short description"
+        }
+      ]
+    }
+  ]
+}
