@@ -1,2 +1,3 @@
-ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,isa,isaLabel,parent,parentLabel,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
-,Q2137618,Kufuor government,2001-01-01,9,,,,,,,Q640506,cabinet,,,,,,,,,,
+ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
+,Q2137618,Kufuor government,2001-01-01,9,,,,,,,,,,,,,,
+,Q39054343,Cabinet of Nana Akuffo-Addo,2017-05-01,10,,,,,,,,,,,,,,
