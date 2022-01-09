@@ -9,27 +9,32 @@
 ->,F. A. Jantuah,Q54808540->Q65070687,1966-01-01->1965,1966-02-24
 +++,Jacob Ofori Torto,Q104553104,1967,1968
 ---,Jacob Ofori-Torto,Q54808627,1967-01-01,1968-01-01
-+++,Albert Adomakoh,Q16001285,1968,1969
-+++,Kankam Twum Barima,Q104553437,1969,
-+++,Major-General Daniel Addo,Q5216360,1972,1973
+->,A. Adomako->Albert Adomakoh,Q16001285,1968-01-01->1968,1969-01-01->1969
+->,K. Twum Barima->Kankam Twum Barima,Q104553437,1969-01-01->1969,
+->,Daniel Addo->Major-General Daniel Addo,Q5216360,1972-01-01->1972,1973-01-01->1973
 +++,Colonel Frank Bernasko,Q1442948,1973,1975
+---,Frank Bernasko,Q1442948,1973-01-01,1975-01-01
 +++,Colonel Frank Bernasko,Q1442948,1975,1976
+---,Frank Bernasko,Q1442948,1975-01-01,1976-01-01
 +++,Lt. Col. Paul K. Nkegbe,,1977,1979
-+++,Neville Alexander Odartey-Wellington,Q7004615,1979,1979
-+++,Abayifa Karbo,,1979,1979
 +++,E. Kwaku Twumasi,,1979,
++++,Abayifa Karbo,,1979,1979
 +++,Colonel Samuel Akwagiram,,1979,1979-06-04
-+++,Nelson Agbesi,Q97940223,1980-12,1981-12-31
-+++,Eugene Bortei-Doku,Q109335304,1982-01,1983-12
-+++,John Ndebugre,Q98032427,1984,1985
+->,Neville Alexander Odartey-Wellington,Q7004615,1979-01-01->1979,1979-01-01->1979
+->,Nelson Agbesi,Q97940223,1980-12-01->1980-12,1981-12-31
+->,Eugene Bortei-Doku,Q109335304,1982-01-01->1982-01,1983-12-01->1983-12
+->,"John Akparibo Ndebugre,->John Ndebugre",Q98032427,1984-01-01->1984,1985-01-01->1985
 +++,Isaac Adjei-Marfo,,1985,1986
 +++,Steve Obimpeh,Q30688486,1986,1992
-+++,Ibrahim Issaka Adam,Q99929822,1992,1993-01-07
+---,Stephen Obimpeh,Q30688486,1986-01-01,1992-01-01
+->,Ibrahim Adam->Ibrahim Issaka Adam,Q99929822,1992-01-01->1992,1993-01-07
 +++,Ibrahim Issaka Adam,Q99929822,1993,1996
+---,Ibrahim Adam,Q99929822,1993-01-01,1996-01-01
 +++,Steve Obimpeh,Q30688486,1996,1997
+---,Stephen Obimpeh,Q30688486,1996-01-01,1997-01-01
 +++,Kwabena Agyei (MP),,1997,1998
 +++,J. H. Owusu-Acheampong (MP),,1998,2001-01-07
-+++,Courage Quashigah,Q331645,2001-02-01,2005
+->,Courage Quashigah,Q331645,2001-02-01,2005-01-01->2005
 ->,Ernest Debrah->Ernest Akubuor Debrah,Q1356193,2005-02-01,2009-01-01->2009-01-07
 +++,Kwesi Ahwoi,Q16107187,2009,2012-10-24
 ---,Kwesi Ahwoi,Q16107187,2009-02-01,2013-01-01
