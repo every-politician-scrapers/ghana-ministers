@@ -1,0 +1,208 @@
+{
+  "title": "Kojo Oppong Nkrumah",
+  "pageID": 46278114,
+  "categories": [
+    "University of Ghana alumni",
+    "1982 births",
+    "Living people",
+    "New Patriotic Party politicians",
+    "University of Cape Coast alumni",
+    "People from Koforidua",
+    "Pope John Senior High School and Minor Seminary alumni",
+    "Ghanaian MPs 2021–2025"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Kojo Vincent Oppong Nkrumah (born 5 April 1982) is a Ghanaian politician and lawyer.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ghanaian"
+                },
+                {
+                  "text": "politician",
+                  "type": "internal",
+                  "page": "politician"
+                },
+                {
+                  "text": "lawyer",
+                  "type": "internal",
+                  "page": "lawyer"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Kojo Vincent Oppong Nkrumah"
+                ]
+              }
+            },
+            {
+              "text": "He is the member of parliament for the Ofoase-Ayirebi constituency.",
+              "links": [
+                {
+                  "text": "member of parliament",
+                  "type": "internal",
+                  "page": "member of parliament"
+                },
+                {
+                  "text": "Ofoase-Ayirebi constituency",
+                  "type": "internal",
+                  "page": "Ofoase-Ayirebi (Ghana parliament constituency)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Ghanaian politician",
+          "template": "short description"
+        },
+        {
+          "df": "yes",
+          "year": "1982",
+          "month": "04",
+          "day": "05",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "Hon."
+          },
+          "nationality": {
+            "text": "🇬🇭 Ghanaian",
+            "links": [
+              {
+                "text": "🇬🇭",
+                "type": "internal",
+                "page": "ghana"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "April 5, 1982"
+          },
+          "birth_place": {
+            "text": "Koforidua, Ghana",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Koforidua"
+              },
+              {
+                "type": "internal",
+                "page": "Ghana"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Akua Oppong Nkrumah"
+          },
+          "party": {
+            "text": "New Patriotic Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "New Patriotic Party"
+              }
+            ]
+          },
+          "children": {
+            "text": "3",
+            "number": 3
+          },
+          "alma_mater": {
+            "text": "Pope John Senior High School and Minor Seminary\nUniversity of Cape Coast\nUniversity of Ghana\nGIMPA",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Pope John Senior High School and Minor Seminary"
+              },
+              {
+                "type": "internal",
+                "page": "University of Cape Coast"
+              },
+              {
+                "type": "internal",
+                "page": "University of Ghana"
+              },
+              {
+                "type": "internal",
+                "page": "GIMPA"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Journalist, Politician, Lawyer"
+          },
+          "website": {
+            "text": "http://www.konkrumah.org/"
+          },
+          "name": {
+            "text": "Kojo Oppong Nkrumah"
+          },
+          "image": {
+            "text": "Kojo-oppong-nkrumah.jpg"
+          },
+          "constituency_mp": {
+            "text": "Ofoase-Ayirebi",
+            "links": [
+              {
+                "text": "Ofoase-Ayirebi",
+                "type": "internal",
+                "page": "Ofoase-Ayirebi (Ghana parliament constituency)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "7 January 2017"
+          },
+          "office2": {
+            "text": "Minister of Information",
+            "links": [
+              {
+                "text": "Minister of Information",
+                "type": "internal",
+                "page": "Minister for Information (Ghana)"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "2017",
+            "number": 2017
+          },
+          "president2": {
+            "text": "Nana Akufo-Addo",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nana Akufo-Addo"
+              }
+            ]
+          },
+          "predecessor2": {
+            "text": "Mustapha Abdul-Hamid",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mustapha Abdul-Hamid"
+              }
+            ]
+          },
+          "birth_name": {
+            "text": "Kojo Vincent Oppong Nkrumah"
+          }
+        }
+      ]
+    }
+  ]
+}
