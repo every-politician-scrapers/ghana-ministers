@@ -1,7 +1,7 @@
 id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
 Q2672728,President of Ghana,Q117,Q117,Q60477696,Q887028,1960-07-01,,,,President of Ghana
-Q3657870,Prime Minister of Ghana,Q117,Q117,,,1969,1972,,,Prime Minister of Ghana
 Q60477696,Vice President of Ghana,Q117,Q117,,,1979,,,,Vice-President of Ghana
+Q3657870,Prime Minister of Ghana,Q117,Q117,,,1969,1972,,,Prime Minister of Ghana
 Q15378819,Minister for Communications,Q117,Q117,,,,,,,Minister for Communications (Ghana)
 Q6865779,Minister for Defence,Q117,Q117,,,,,,,Minister for Defence (Ghana)
 Q11812510,Minister for Education,Q117,Q117,,,,,,,Minister for Education (Ghana)
@@ -15,9 +15,12 @@ Q6866006,Minister for the Interior,Q117,Q117,,,,,,,Minister for the Interior (Gh
 Q54350968,Justice minister of Ghana,Q117,Q117,,,,,,,
 Q16733858,Minister for Local Government,,Q117,,,,,,,Minister for Local Government (Ghana)
 Q94955285,Minister of Tourism of Ghana,Q117,,,,,,,,
+Q110486421,Minister for Trade and Industry,,Q117,,,,,,,
 Q107584164,Minister for Transport and Telecommunications,Q117,Q117,,,,,,,
-Q55633678,Speaker of the Parliament of Ghana,Q117,,,,,,,,Speaker of the Parliament of Ghana
+Q110486427,Minister of Works and Housing,,Q117,,,,,,,
+Q108919840,Minister for Youth and Sports,,,,,,,,,Minister for Youth and Sports (Ghana)
 Q96758149,Attorney General of Ghana,Q117,,,,,,,,
 Q1072311,Chief Justice of Ghana,Q117,,,,,,,,Chief Justice of Ghana
+Q55633678,Speaker of the Parliament of Ghana,Q117,,,,,,,,Speaker of the Parliament of Ghana
 Q5097052,Chief of the Defence Staff,Q117,,,,1954,,,,Chief of the Defence Staff (Ghana)
 Q18358342,Mayor of Accra,Q117,Q3761,,,1957-03-06,,,,Mayor of Accra
