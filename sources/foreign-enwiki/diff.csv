@@ -1,0 +1,33 @@
+@@,itemlabel,item,startdate,enddate
++++,Kwame Nkrumah,Q8620,1957,1958
++++,Kojo Botsio,Q1778897,1958,1959
++++,Ako Adjei,Q1278627,1959,1960
+->,Imoru Egala,Q1660216,1960-01-01->1960,1961-01-01->1961
++++,Ako Adjei,Q1278627,1961,1962
++++,Dr. Kwame Nkrumah,Q8620,1962,1963
++++,Kojo Botsio,Q1778897,1963,1965
++++,Alex Quaison-Sackey,Q563212,1965,1966-02-24
++++,Lt. Gen. Joseph A. Ankrah,Q356728,1966,1967
++++,John Willie Kofi Harlley,Q1234869,1967,1968
++++,Patrick Dankwa Anin,Q1647615,1969,1969
++++,Victor Owusu,Q1314093,1969,1971
++++,Victor Owusu,Q1314093,1969,1969
+->,William Ofori Atta,Q2580160,1971-01-01->1971,1972-01-01->1972-01-13
++++,Major General Nathan Apea Aferi,Q1966455,1972,1972
++++,Lt. Colonel Kwame R.M. Baah,Q1794905,1972,1975
++++,Colonel Roger Felli,Q1585764,1975,1979-06-04
++++,Dr. Isaac K. Chinebuah,Q1673371,1979,1981-12-31
++++,Gloria Amon Nikoi,Q1532050,1979,1979-09-24
++++,Obed Asamoah,Q1311287,1982,1993-01-07
+---,Obed Yao Asamoah,Q1311287,1982-01-01,1997-01-07
++++,Obed Asamoah,Q1311287,1993-01-07,1997
+->,James Victor Gbeho,Q674087,1997-01-01->1997,2001-01-07
+->,Kwamena Ahwoi,Q1794910,1997-01-07->1997,1997-01-01->1997
+->,Hackman Owusu-Agyeman,Q1567260,2001-02-02->2001,2003-04-01->2003
+->,Nana Akufo-Addo->Nana Addo Dankwa Akufo-Addo,Q718601,2003-04-01->2003,2007-07-01->2007-07
+---,Kwesi Osei-Adjei,Q3200845,2007-01-01,2009-01-01
+->,Akwasi Osei-Adjei,Q424369,2007-07-01->2007,2009-01-07
++++,Muhammad Mumuni,Q58327,2009,2012-07-24
+---,Muhammad Mumuni,Q58327,2009-02-01,2013-01-06
++++,Muhammad Mumuni,Q58327,2012-07-24,2013-01-07
+->,Hanna Tetteh,Q5648740,2013-01-30,2017-01-07->2017-01-06
