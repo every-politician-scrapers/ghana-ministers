@@ -1,8 +1,8 @@
 @@,itemlabel,item,startdate,enddate
 +++,Cecilia Johnson,Q26924422,,2001-01-06
 +++,Kwamena Ahwoi,Q1794910,,1993
-+++,Lt. Col. B. K. Ahlijah,,,
 +++,Lt. Col. K. A. Jackson,,,
++++,Lt. Col. B. K. Ahlijah,,,
 +++,A. E. A. Ofori-Atta,Q1270076,1957-03-06,
 +++,Mumuni Bawumia,Q19661278,1965-02-01,1966
 +++,Alex A. Y. Kyerematen,Q108570610,1966,1969
@@ -21,9 +21,10 @@
 +++,Kwadwo Adjei-Darko,Q1794870,2003,2005
 +++,Charles Bimpong Bintim (Local Government and Rural Development),,2005,2006
 +++,Stephen Asamoah-Boateng (Local Government and Rural Development and Environment),,2006,2007
-+++,Kwadwo Adjei-Darko,Q1794870,2007,2009-01-06
-+++,Joseph Yieleh Chireh,Q1708293,2009,2011
+->,Kwadwo Adjei-Darko,Q1794870,2007-01-01->2007,2009-01-06
+->,Joseph Yieleh Chireh,Q1708293,2009-01-01->2009,2011-01-01->2011
 +++,Samuel Ofosu-Ampofo,Q7412301,2011,2012
+---,Samuel Ofosu-Ampofo,Q7412301,2011-01-01,2013-01-01
 +++,Samuel Ofosu-Ampofo,Q7412301,2012,2013
-+++,Akwasi Oppong Fosu,Q16199405,2013,2017-01-06
-+++,Alima Mahama,Q1569692,2017-01,
+->,Akwasi Oppong Fosu,Q16199405,2013-01-01->2013,2017-01-06
+->,Alima Mahama,Q1569692,2017-01-01->2017-01,
