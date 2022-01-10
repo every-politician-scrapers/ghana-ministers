@@ -22,8 +22,8 @@
 +++,Stephen Obimpeh,Q30688486,1992,1993-01-07
 +++,Stephen Obimpeh,Q30688486,1994-08,1996
 +++,Eunice Brookman-Amissah,Q11697318,1996,1998
-+++,Samuel Nuamah Donkor,Q105183969,1998,2000-02
-+++,Kwame Danso-Boafo,Q23907308,2000-02,2001-01-07
+->,Samuel Nuamah Donkor,Q105183969,1998-01-01->1998,2000-02-01->2000-02
+->,Kwaku Danso-Boafo->Kwame Danso-Boafo,Q23907308,2000-02-01->2000-02,2001-01-07
 ->,Richard Winfred Anane,Q2150918,2001-01-01->2001,2003-01-01->2003
 ->,Kwaku Afriyie,Q48772825,2003-01-01->2003,2005-01-01->2005
 ->,Courage Quashigah,Q331645,2005-01-01->2005,2009-01-07

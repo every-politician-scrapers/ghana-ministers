@@ -4,8 +4,8 @@
 +++,Kwaku Boateng,Q6450030,,
 +++,Colonel I. K. Acheampong,Q472593,,
 +++,Jake Obetsebi-Lamptey,Q1677605,,2003
-+++,Colonel C. R. Tachie-Menson,,,
 +++,Colonel Parker H.S. Yarney,,,
++++,Colonel C. R. Tachie-Menson,,,
 +++,,,,
 +++,,,1957-03-06,
 +++,Tawia Adamafio,Q7689280,1960,1962
@@ -16,15 +16,16 @@
 ->,Joyce Aryee,Q6297382,1982-01-01->1982,1985-01-01->1985
 +++,Kofi Totobi Quakyi,Q64009627,1985,1993
 +++,Kofi Totobi Quakyi,Q64009627,1993,2001
-+++,Nana Akomea,Q1964413,2003,2005
-+++,Daniel Kwaku Botwe,Q1160142,2005,2006
-+++,Kwamena Bartels,Q1794914,2006,2007
-+++,Florence Oboshie Sai-Cofie,Q1229262,2007,2008
-+++,Stephen Asamoah Boateng,Q2344521,2008,2009
-+++,Zita Okaikoi,Q8072826,2009,2010
-+++,John Tia,Q6260811,2010,2012
+---,Kofi Totobi Quakyi,Q64009627,1993-01-01,2001-01-01
+->,Nana Akomea,Q1964413,2003-01-01->2003,2005-01-01->2005
+->,Daniel Botwe->Daniel Kwaku Botwe,Q1160142,2005-01-01->2005,2006-01-01->2006
+->,Kwamena Bartels,Q1794914,2006-01-01->2006,2007-01-01->2007
+->,Florence Oboshie Sai-Coffie->Florence Oboshie Sai-Cofie,Q1229262,2007-01-01->2007,2008-01-01->2008
+->,Stephen Asamoah-Boateng->Stephen Asamoah Boateng,Q2344521,2008-01-01->2008,2009-01-01->2009
+->,Zita Okaikoi,Q8072826,2009-01-01->2009,2010-01-01->2010
+->,John Akologu Tia->John Tia,Q6260811,2010-01-01->2010,2012-01-01->2012
 +++,Fritz Baffour,Q5504853,2012,2013
 +++,Fritz Baffour,Q5504853,2012,2012
-+++,Mahama Ayariga,Q6732981,2013-01-30,2014-07-16
-+++,Mustapha Abdul-Hamid,Q28924956,2017-02,2018-08
-+++,Kojo Oppong Nkrumah,Q20202651,2018-08,
+---,Fritz Baffour,Q5504853,2012-01-01,2013-01-01
+->,Mustapha Abdul-Hamid,Q28924956,2017-02-01->2017-02,2018-08-01->2018-08
+->,Kojo Oppong Nkrumah,Q20202651,2018-08-01->2018-08,
