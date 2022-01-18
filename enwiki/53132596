@@ -20,7 +20,7 @@
         {
           "sentences": [
             {
-              "text": "Kwaku Agyeman-Manu (born September 6, 1955) a Ghanaian politician.",
+              "text": "Kwaku Agyemang-Manu (born September 6, 1955) a Ghanaian politician.",
               "links": [
                 {
                   "text": "Ghanaian",
@@ -30,7 +30,7 @@
               ],
               "formatting": {
                 "bold": [
-                  "Kwaku Agyeman-Manu"
+                  "Kwaku Agyemang-Manu"
                 ]
               }
             },
@@ -59,6 +59,83 @@
         {
           "date": "June 2020",
           "template": "blp sources"
+        },
+        {
+          "year": "1955",
+          "month": "09",
+          "day": "6",
+          "df": "yes",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "Hon."
+          },
+          "name": {
+            "text": "Kwaku Agyemang-Manu"
+          },
+          "office": {
+            "text": "Minister for Health, Member of Parliament for Dormaa Central Constituency"
+          },
+          "term_start": {
+            "text": "7 January 2021"
+          },
+          "predecessor": {
+            "text": "Samuel Abdulai Jabanyite",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Samuel Abdulai Jabanyite"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "September 6, 1955"
+          },
+          "birth_place": {
+            "text": "Dormaa-Ahenkro, Ghana",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ghana"
+              }
+            ]
+          },
+          "birthname": {
+            "text": "Kwaku Agyeman-Manu"
+          },
+          "nationality": {
+            "text": "Ghanaian",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ghanaian"
+              }
+            ]
+          },
+          "party": {
+            "text": "New Patriotic Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "New Patriotic Party"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Politician",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Politician"
+              }
+            ]
+          },
+          "committees": {
+            "text": "Members Holding Offices of Profit Committee"
+          }
         }
       ]
     }
