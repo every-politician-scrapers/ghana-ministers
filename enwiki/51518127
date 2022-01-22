@@ -25,7 +25,7 @@
         {
           "sentences": [
             {
-              "text": "Shirley Ayorkor Botchwey (born 8 February 1963), is a Ghanaian politician.",
+              "text": "Shirley Ayorkor Botchwey (born 8 February 1963), is a Ghanaian politician who serves as Ghana's minister for foreign affairs and regional integration.",
               "links": [
                 {
                   "text": "Ghanaian",
@@ -40,15 +40,16 @@
               }
             },
             {
-              "text": "She was appointed by President of Ghana Nana Akuffo-Addo as Minister of Foreign Affairs on 10 January 2017.",
+              "text": "She was appointed by Ghanaian president Nana Akufo-Addo as Minister of Foreign Affairs on 10 January 2017.",
               "links": [
                 {
+                  "text": "Ghanaian president",
                   "type": "internal",
                   "page": "President of Ghana"
                 },
                 {
                   "type": "internal",
-                  "page": "Nana Akuffo-Addo"
+                  "page": "Nana Akufo-Addo"
                 },
                 {
                   "text": "Minister of Foreign Affairs",
@@ -58,7 +59,7 @@
               ]
             },
             {
-              "text": "She is also the former Member of Parliament for Anyaa-Sowutuom and once served as Deputy Minister of Foreign Affairs.",
+              "text": "She was a Member of Parliament for Anyaa-Sowutuom from 2013 to 2021.",
               "links": [
                 {
                   "text": "Anyaa-Sowutuom",
@@ -66,6 +67,9 @@
                   "page": "Anyaa-Sowutuom (Ghana parliamentary constituency)"
                 }
               ]
+            },
+            {
+              "text": "and had served as Deputy Minister of Foreign Affairs and a Minister of State at the Ministry of Water Resources, Works and Housing under John Kufuor."
             },
             {
               "text": "She is a member of the New Patriotic Party.",
@@ -152,13 +156,20 @@
           "term_start1": {
             "text": "7 January 2013"
           },
+          "term_end1": {
+            "text": "7 January 2021"
+          },
           "president1": {
-            "text": "John Mahama",
+            "text": "John Mahama Nana Akufo-Addo",
             "links": [
               {
                 "text": "John Mahama",
                 "type": "internal",
                 "page": "John Dramani Mahama"
+              },
+              {
+                "type": "internal",
+                "page": "Nana Akufo-Addo"
               }
             ]
           },
@@ -196,26 +207,6 @@
               {
                 "type": "internal",
                 "page": "John Kufour"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Deputy Minister for the Information (Ghana)"
-          },
-          "term_end3": {
-            "text": "January 2013"
-          },
-          "president3": {
-            "text": "John Atta Mills John Mahama",
-            "links": [
-              {
-                "type": "internal",
-                "page": "John Atta Mills"
-              },
-              {
-                "text": "John Mahama",
-                "type": "internal",
-                "page": "John Dramani Mahama"
               }
             ]
           },
