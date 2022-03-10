@@ -1,146 +1,15 @@
 {
-  "title": "Kwaku Agyemang-Manu",
-  "pageID": 53132596,
-  "categories": [
-    "1955 births",
-    "Living people",
-    "Ghanaian Christians",
-    "People from Brong-Ahafo Region",
-    "New Patriotic Party politicians",
-    "Cabinet Ministers of Ghana",
-    "University of Ghana alumni",
-    "Health ministers of Ghana",
-    "Ghanaian MPs 2021–2025"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Kwaku Agyemang-Manu (born September 6, 1955) a Ghanaian politician.",
-              "links": [
-                {
-                  "text": "Ghanaian",
-                  "type": "internal",
-                  "page": "Ghanaian people"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Kwaku Agyemang-Manu"
-                ]
-              }
-            },
-            {
-              "text": "He is the Member of Parliament for Dormaa Central and the Minister of Health.",
-              "links": [
-                {
-                  "text": "Dormaa Central",
-                  "type": "internal",
-                  "page": "Dormaa Central (Ghana parliament constituency)"
-                },
-                {
-                  "type": "internal",
-                  "page": "Minister of Health"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Ghanaian politician",
-          "template": "short description"
-        },
-        {
-          "date": "June 2020",
-          "template": "blp sources"
-        },
-        {
-          "year": "1955",
-          "month": "09",
-          "day": "6",
-          "df": "yes",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "honorific-prefix": {
-            "text": "Hon."
-          },
-          "name": {
-            "text": "Kwaku Agyemang-Manu"
-          },
-          "image": {
-            "text": "File:KWAKU AGYEMAN-MANU.jpg"
-          },
-          "office": {
-            "text": "Minister for Health, Member of Parliament for Dormaa Central Constituency"
-          },
-          "term_start": {
-            "text": "7 January 2009"
-          },
-          "predecessor": {
-            "text": "Samuel Abdulai Jabanyite",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Samuel Abdulai Jabanyite"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "September 6, 1955"
-          },
-          "birth_place": {
-            "text": "Dormaa-Ahenkro, Ghana",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ghana"
-              }
-            ]
-          },
-          "birthname": {
-            "text": "Kwaku Agyeman-Manu"
-          },
-          "nationality": {
-            "text": "Ghanaian",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ghanaian"
-              }
-            ]
-          },
-          "party": {
-            "text": "New Patriotic Party",
-            "links": [
-              {
-                "type": "internal",
-                "page": "New Patriotic Party"
-              }
-            ]
-          },
-          "occupation": {
-            "text": "Politician",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Politician"
-              }
-            ]
-          },
-          "committees": {
-            "text": "Members Holding Offices of Profit Committee"
-          }
-        }
-      ]
-    }
-  ]
+  "honorific-prefix": "Hon.",
+  "name": "Kwaku Agyemang-Manu",
+  "image": "File:KWAKU AGYEMAN-MANU.jpg",
+  "office": "Minister for Health, Member of Parliament for Dormaa Central Constituency",
+  "term_start": "7 January 2009",
+  "predecessor": "Samuel Abdulai Jabanyite",
+  "birth_date": "September 6, 1955",
+  "birth_place": "Dormaa-Ahenkro, Ghana",
+  "birthname": "Kwaku Agyeman-Manu",
+  "nationality": "Ghanaian",
+  "party": "New Patriotic Party",
+  "occupation": "Politician",
+  "committees": "Members Holding Offices of Profit Committee"
 }
