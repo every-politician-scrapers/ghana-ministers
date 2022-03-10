@@ -1,227 +1,24 @@
 {
-  "title": "Dominic Nitiwul",
-  "pageID": 54244430,
-  "categories": [
-    "1977 births",
-    "Living people",
-    "New Patriotic Party politicians",
-    "Pan-African Parliament",
-    "Ghanaian MPs 2005–2009",
-    "Ghanaian MPs 2009–2013",
-    "Ghanaian MPs 2013–2017",
-    "Ghanaian MPs 2017–2021",
-    "Cabinet Ministers of Ghana",
-    "Defence ministers of Ghana",
-    "Ghanaian MPs 2021–2025"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Dominic Aduna Bingab Nitiwul (born November 4, 1977) is a Ghanaian politician and Member of Parliament (MP) for the Bimbilla constituency in the Northern Region of Ghana.",
-              "links": [
-                {
-                  "text": "Ghanaian",
-                  "type": "internal",
-                  "page": "Ghana"
-                },
-                {
-                  "type": "internal",
-                  "page": "Member of Parliament"
-                },
-                {
-                  "text": "Bimbilla constituency",
-                  "type": "internal",
-                  "page": "Bimbilla (Ghana parliament constituency)"
-                },
-                {
-                  "text": "Northern Region",
-                  "type": "internal",
-                  "page": "Northern Region, Ghana"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Dominic Aduna Bingab Nitiwul"
-                ]
-              }
-            },
-            {
-              "text": "He has also served in the Pan-African Parliament.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Pan-African Parliament"
-                }
-              ]
-            },
-            {
-              "text": "Since February 2017, Nitiwul has held the office of Minister of Defence of Ghana.",
-              "links": [
-                {
-                  "text": "Minister of Defence",
-                  "type": "internal",
-                  "page": "Ministry of Defence (Ghana)"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Ghanaian politician",
-          "template": "short description"
-        },
-        {
-          "date": "August 2020",
-          "template": "use dmy dates"
-        },
-        {
-          "df": "yes",
-          "year": "1977",
-          "month": "11",
-          "day": "04",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "honorific-prefix": {
-            "text": "Hon.",
-            "links": [
-              {
-                "text": "Hon.",
-                "type": "internal",
-                "page": "The Honourable"
-              }
-            ]
-          },
-          "name": {
-            "text": "Dominic Nitiwul"
-          },
-          "honorific-suffix": {
-            "text": "MP"
-          },
-          "image": {
-            "text": "Dominic Nitiwul.jpg"
-          },
-          "caption": {
-            "text": "Dominic Nitiwul in 2020"
-          },
-          "office": {
-            "text": "Minister of Defence"
-          },
-          "term_start": {
-            "text": "February 2017"
-          },
-          "president": {
-            "text": "Nana Akuffo-Addo",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nana Akuffo-Addo"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Benjamin Kunbuor",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Benjamin Kunbuor"
-              }
-            ]
-          },
-          "successor": {
-            "text": "Incumbent"
-          },
-          "office1": {
-            "text": "MP for Bimbilla"
-          },
-          "term_start1": {
-            "text": "February 2005"
-          },
-          "president1": {
-            "text": "Nana Akuffo-Addo",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nana Akuffo-Addo"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "Incumbent"
-          },
-          "birth_date": {
-            "text": "November 4, 1977"
-          },
-          "birth_place": {
-            "text": "Chamba Ghana",
-            "links": [
-              {
-                "text": "Chamba",
-                "type": "internal",
-                "page": "Chamba (Ghana)"
-              },
-              {
-                "type": "internal",
-                "page": "Ghana"
-              }
-            ]
-          },
-          "birthname": {
-            "text": "Dominic Aduna Bingab Nitiwul"
-          },
-          "nationality": {
-            "text": "Ghanaian",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ghanaian"
-              }
-            ]
-          },
-          "party": {
-            "text": "New Patriotic Party",
-            "links": [
-              {
-                "type": "internal",
-                "page": "New Patriotic Party"
-              }
-            ]
-          },
-          "children": {
-            "text": "5",
-            "number": 5
-          },
-          "alma_mater": {
-            "text": "St Charles Secondary and Seminary School, University of South Wales, University of Westminster",
-            "links": [
-              {
-                "type": "internal",
-                "page": "St Charles Secondary and Seminary School"
-              },
-              {
-                "type": "internal",
-                "page": "University of South Wales"
-              },
-              {
-                "type": "internal",
-                "page": "University of Westminster"
-              }
-            ]
-          },
-          "occupation": {
-            "text": "Member of Parliament, Minister"
-          }
-        }
-      ]
-    }
-  ]
+  "honorific-prefix": "Hon.",
+  "name": "Dominic Nitiwul",
+  "honorific-suffix": "MP",
+  "image": "Dominic Nitiwul.jpg",
+  "caption": "Dominic Nitiwul in 2020",
+  "office": "Minister of Defence",
+  "term_start": "February 2017",
+  "president": "Nana Akuffo-Addo",
+  "predecessor": "Benjamin Kunbuor",
+  "successor": "Incumbent",
+  "office1": "MP for Bimbilla",
+  "term_start1": "February 2005",
+  "president1": "Nana Akuffo-Addo",
+  "successor1": "Incumbent",
+  "birth_date": "November 4, 1977",
+  "birth_place": "Chamba Ghana",
+  "birthname": "Dominic Aduna Bingab Nitiwul",
+  "nationality": "Ghanaian",
+  "party": "New Patriotic Party",
+  "children": "5",
+  "alma_mater": "St Charles Secondary and Seminary School, University of South Wales, University of Westminster",
+  "occupation": "Member of Parliament, Minister"
 }

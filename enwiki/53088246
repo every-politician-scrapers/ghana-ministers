@@ -1,187 +1,20 @@
 {
-  "title": "Matthew Opoku Prempeh",
-  "pageID": 53088246,
-  "categories": [
-    "1968 births",
-    "Living people",
-    "Education ministers of Ghana",
-    "Kwame Nkrumah University of Science and Technology alumni",
-    "Cabinet Ministers of Ghana",
-    "Ghanaian MPs 2009–2013",
-    "Ghanaian MPs 2013–2017",
-    "Ghanaian MPs 2017–2021",
-    "Prempeh College alumni",
-    "Ghanaian MPs 2021–2025"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Matthew Opoku Prempeh, (born 23 May 1968) is a Ghanaian medical doctor and politician.",
-              "formatting": {
-                "bold": [
-                  "Matthew Opoku Prempeh"
-                ]
-              }
-            },
-            {
-              "text": "He is a member of the New Patriotic Party and a Member of Parliament for Manhyia South Constituency in the Ashanti Region of Ghana.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Manhyia South"
-                }
-              ]
-            },
-            {
-              "text": "He is a former Minister of Education."
-            },
-            {
-              "text": "He is popularly known as Napo."
-            },
-            {
-              "text": "He is currently the Minister for Energy."
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Ghanaian politician (born 1968)",
-          "template": "short description"
-        },
-        {
-          "date": "March 2021",
-          "template": "use ghanaian english"
-        },
-        {
-          "date": "August 2020",
-          "template": "use dmy dates"
-        },
-        {
-          "year": "1968",
-          "month": "05",
-          "day": "23",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "image": {
-            "text": "Matthew Opoku Prempeh.jpg"
-          },
-          "office1": {
-            "text": "Minister of Energy"
-          },
-          "predecessor1": {
-            "text": "John Peter Amewu",
-            "links": [
-              {
-                "type": "internal",
-                "page": "John Peter Amewu"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "Prempeh College Kwame Nkrumah University of Science and Technology Harvard Kennedy School",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Prempeh College"
-              },
-              {
-                "type": "internal",
-                "page": "Kwame Nkrumah University of Science and Technology"
-              },
-              {
-                "type": "internal",
-                "page": "Harvard Kennedy School"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "May 23, 1968"
-          },
-          "birth_place": {
-            "text": "Ghana"
-          },
-          "profession": {
-            "text": "Medical doctor, politician"
-          },
-          "honorific-prefix": {
-            "text": "Hon."
-          },
-          "party": {
-            "text": "New Patriotic Party",
-            "links": [
-              {
-                "type": "internal",
-                "page": "New Patriotic Party"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Minister of Education"
-          },
-          "predecessor2": {
-            "text": "Jane Naana Opoku-Agyemang",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jane Naana Opoku-Agyemang"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Member of the Ghana Parliament for the Manhyia South Constituency",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ghana Parliament"
-              },
-              {
-                "type": "internal",
-                "page": "Manhyia South"
-              }
-            ]
-          },
-          "termstart1": {
-            "text": "5 March 2021"
-          },
-          "termstart3": {
-            "text": "7 January 2009"
-          },
-          "termstart2": {
-            "text": "10 January 2017"
-          },
-          "termend2": {
-            "text": "6 January 2021"
-          },
-          "predecessor3": {
-            "text": "Kwame Addo-Kufuor",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kwame Addo-Kufuor"
-              }
-            ]
-          },
-          "president1": {
-            "text": "Nana Akufo-Addo",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nana Akufo-Addo"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "image": "Matthew Opoku Prempeh.jpg",
+  "office1": "Minister of Energy",
+  "predecessor1": "John Peter Amewu",
+  "alma_mater": "Prempeh College Kwame Nkrumah University of Science and Technology Harvard Kennedy School",
+  "birth_date": "May 23, 1968",
+  "birth_place": "Ghana",
+  "profession": "Medical doctor, politician",
+  "honorific-prefix": "Hon.",
+  "party": "New Patriotic Party",
+  "office2": "Minister of Education",
+  "predecessor2": "Jane Naana Opoku-Agyemang",
+  "office3": "Member of the Ghana Parliament for the Manhyia South Constituency",
+  "termstart1": "5 March 2021",
+  "termstart3": "7 January 2009",
+  "termstart2": "10 January 2017",
+  "termend2": "6 January 2021",
+  "predecessor3": "Kwame Addo-Kufuor",
+  "president1": "Nana Akufo-Addo"
 }
