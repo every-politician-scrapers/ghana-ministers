@@ -1,0 +1,38 @@
+id,name,relationship,relative,relativename
+Q1438950,Paa Kwesi Nduom,spouse,Q27947593,Yvonne Nduom
+Q16107187,Kwesi Ahwoi,sibling,Q102167032,Ato Ahwoi
+Q16107187,Kwesi Ahwoi,sibling,Q1794910,Kwamena Ahwoi
+Q16218681,Ras Mubarak,relative,Q16733008,Muntaka Mohammed Mubarak
+Q16218681,Ras Mubarak,sibling,Q78170633,Mohammed Sadat Abdulai
+Q16733008,Muntaka Mohammed Mubarak,relative,Q16218681,Ras Mubarak
+Q16733008,Muntaka Mohammed Mubarak,relative,Q78170633,Mohammed Sadat Abdulai
+Q23541289,Zanetor Agyeman-Rawlings,father,Q51002,Jerry Rawlings
+Q23541289,Zanetor Agyeman-Rawlings,mother,Q6962296,Nana Konadu Agyeman Rawlings
+Q50678,John Mahama,sibling,Q41251853,Ibrahim Mahama
+Q50678,John Mahama,spouse,Q20722948,Lordina Mahama
+Q51002,Jerry Rawlings,child,Q108737816,Amina Rawlings
+Q51002,Jerry Rawlings,child,Q23541289,Zanetor Agyeman-Rawlings
+Q51002,Jerry Rawlings,spouse,Q6962296,Nana Konadu Agyeman Rawlings
+Q51005,John Kufuor,child,Q23718894,John Addo Kufuor
+Q51008,John Evans Atta Mills,spouse,Q19957726,Ernestina Naadu Mills
+Q5504853,Fritz Baffour,father,Q7273893,Robert Patrick Baffour
+Q57915355,Betty Crosby Mensah,father,Q99912770,Krosbi Mensah
+Q59132463,Emmanuel Kwabena Kyeremateng Agyarko,sibling,Q30315761,Boakye Agyarko
+Q59132463,Emmanuel Kwabena Kyeremateng Agyarko,spouse,Q61697679,Lydia Seyram Alhassan
+Q61697679,Lydia Seyram Alhassan,spouse,Q59132463,Emmanuel Kwabena Kyeremateng Agyarko
+Q6450340,Kwesi Amissah-Arthur,spouse,Q26703047,Matilda Amissah-Arthur
+Q6733078,Mahamudu Bawumia,spouse,Q28464314,Samira Bawumia
+Q674087,James Victor Gbeho,father,Q7183599,Philip Gbeho
+Q718601,Nana Akufo-Addo,child,Q104992895,Valerie Obaze
+Q718601,Nana Akufo-Addo,child,Q104992944,Gyankroma Akufo-Addo
+Q718601,Nana Akufo-Addo,child,Q105036759,Adriana Dukua Akufo-Addo
+Q718601,Nana Akufo-Addo,child,Q105036760,Edwina Nana Dokua Akufo-Addo
+Q718601,Nana Akufo-Addo,child,Q105036761,Yeboakua Akufo-Addo
+Q718601,Nana Akufo-Addo,father,Q50989,Edward Akufo-Addo
+Q718601,Nana Akufo-Addo,spouse,Q7301648,Rebecca Akufo-Addo
+Q7409415,Samia Nkrumah,father,Q8620,Kwame Nkrumah
+Q7409415,Samia Nkrumah,mother,Q392629,Fathia Nkrumah
+Q7409415,Samia Nkrumah,sibling,Q16734082,Sekou Nkrumah
+Q7409415,Samia Nkrumah,sibling,Q5519561,Gamal Nkrumah
+Q850396,Betty Mould-Iddrisu,spouse,Q17411276,Mahama Iddrisu
+Q99912770,Krosbi Mensah,child,Q57915355,Betty Crosby Mensah
