@@ -1,0 +1,20 @@
+{
+    "jurisdiction": {
+      "name": "Ghana",
+      "id": "Q117"
+    },
+    "cabinet": {
+      "id": "Q39054343",
+      "start": "2017-05",
+      "parent": "Q47092681"
+    },
+    "source": {
+        "url":   "",
+        "title": "",
+        "lang":  {
+            "code": "en",
+            "wikidata": "Q1860"
+        }
+    },
+    "agent": "every-politican-scrapers/ghana-ministers"
+}
