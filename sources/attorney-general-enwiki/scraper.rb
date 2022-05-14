@@ -4,14 +4,6 @@
 require 'every_politician_scraper/scraper_data'
 require 'pry'
 
-require 'open-uri/cached'
-
-class ExtdDate < WikipediaDate
-  def date_str
-    super.gsub('current', '').tidy
-  end
-end
-
 class OfficeholderList < OfficeholderListBase
   decorator RemoveReferences
   decorator UnspanAllTables
@@ -26,8 +18,8 @@ class OfficeholderList < OfficeholderListBase
       %w[ordinal name start end].freeze
     end
 
-    def date_class
-      ExtdDate
+    def ignore_before
+      1997
     end
   end
 end
