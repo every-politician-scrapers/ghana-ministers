@@ -19,6 +19,14 @@ class OfficeholderList < OfficeholderListBase
     def columns
       %w[ordinal name start end].freeze
     end
+
+    def ignore_before
+      1998
+    end
+
+    def empty?
+      tds[2].text.to_s.empty? || super
+    end
   end
 end
 

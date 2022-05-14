@@ -1,28 +1,10 @@
-@@,itemlabel,item,startdate,enddate
-+++,Krobo Edusei,Q6438717,,
-+++,Ekwow Spio-Garbrah,Q605985,,1998
-+++,Eric R.K. DwemohCommissioner for Transport and Communications,,,
-+++,Group Captain T. T. KutinCommissioner for Transport and Communications,,,
-+++,Colonel David A. IddisahCommissioner for Transport and Communications,,,
----,Boahene Yeboa -Afari,Q7591409,1956-06-01,1957-06-01
-+++,Archie Casely-Hayford,Q15070078,1957-03-06,
-+++,Alfred Jonas Dowuona-Hammond,Q61524658,1964,1966-02
-+++,Matthew Poku,Q1292452,1968-02,1969-04
-+++,Haruna Esseku,Q56249921,1969,1971
-+++,Jatoe Kaleo,Q60786543,1971,1972
-+++,Lt. Col. Anthony SelormeyCommissioner for Transport and Communications,,1972,
-+++,Harry Sawyerr,Q5672203,1979,1981
-+++,George HarlleyCommissioner for Transport and Communications,,1979,1979
-+++,Mahama Iddrisu,Q17411276,1983,1987
-+++,Yaw DonkorSecretary for Transport and Communications,,1987,1992
-+++,Kwame PeprahSecretary for Transport and Communications,,1992,1993
-+++,Edward Salia,Q5345199,1993,1995
-+++,John Mahama,Q50678,1998,2001
-+++,Felix Owusu-Adjapong,Q929183,2001,2003
-+++,Albert Kan Dapaah,Q2638264,2003,2006
-+++,Mike Oquaye,Q1933412,2006,2007
-+++,Dr. Ben Aggrey Ntim,,2007,2009
-+++,Haruna Iddrisu,Q109651136,2009,2012
-+++,Haruna Iddrisu,Q109651136,2012,2013
-+++,Edward Omane Boamah,Q16146496,2013,2017
-->,Ursula Owusu->Ursula Owusu-Ekuful,Q21063772,2017-01-01->2017,
+@@,item,itemlabel,startdate,enddate
++++,Q50678,John Mahama,1998,2001
++++,Q929183,Felix Owusu-Adjapong,2001,2003
++++,Q2638264,Albert Kan Dapaah,2003,2006
++++,Q1933412,Mike Oquaye,2006,2007
++++,,Dr. Ben Aggrey Ntim,2007,2009
++++,Q109651136,Haruna Iddrisu,2009,2012
++++,Q109651136,Haruna Iddrisu,2012,2013
++++,Q16146496,Edward Omane Boamah,2013,2017
+->,Q21063772,Ursula Owusu->Ursula Owusu-Ekuful,2017,
