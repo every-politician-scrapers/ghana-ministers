@@ -20,8 +20,12 @@ class OfficeholderList < OfficeholderListBase
       %w[ordinal name start end].freeze
     end
 
+    def ignore_before
+      2000
+    end
+
     def empty?
-      raw_end.include?('?') || raw_start.include?('?') || raw_start.include?('c. ')
+      tds[2].text.to_s.empty? || raw_end.include?('?') || raw_start.include?('?') || raw_start.include?('c. ') || super
     end
   end
 end

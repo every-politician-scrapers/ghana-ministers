@@ -1,26 +1,7 @@
-@@,itemlabel,item,startdate,enddate
-+++,John Frank Abu,,,2000-01
-+++,Emma Mitchell,,,1996-01
-+++,Kojo Botsio,Q1778897,1957,1958
-+++,Patrick Kwame Kusi Quaidoo,Q63970191,1958,1960
-+++,Ferdinand Koblavi Dra Goka,Q68298427,1960-07,1961-05
-+++,Lawrence Rosario Abavana,Q54808314,1961-05,1961-10
-+++,R.S. Amegashie,,1966,1969
-+++,R. A. Quarshie,Q24753610,1969,1972
-+++,Roger Joseph Felli,Q1585764,1972,
-+++,Colonel Kobina Adduah Quashie,,1975,1979
-+++,J.L.S. Abbey,Q23710540,1979,1979
-+++,Francis Kwame Buah,,1979,1980
-+++,Vincent Y. Bulla,,1980,
-+++,K. B. Asante,Q16148770,1982,1986
-+++,Kofi Djin,,1986,1992
-+++,John Bawa,,1992,1993-01
-->,Dan Kwasi Abodakpi->Dan Abodakpi,Q98015706,2000-01-01->2000-01,2001-01-01->2001-01
-->,Kofi Konadu Apraku,Q98008421,2001-01-01->2001,2003-01-01->2003
-+++,Alan Kyeremanteng,Q2636751,2003,2007
-->,Alan John Kyerematen,Q2636751,2003-01-01->2017-01-28,2007-01-01->NULL
-+++,Joe Baidoe-Ansah,,2007,2008
-->,Papa Owusu-Ankomah,Q1698546,2008-01-01->2008,2009-01-01->2009
-+++,Hanna Tetteh,Q5648740,2009,2012
----,Hanna Tetteh,Q5648740,2009-01-01,2013-01-01
-+++,Hanna Tetteh,Q5648740,2012,2013
+@@,item,itemlabel,startdate,enddate
+->,Q98015706,Dan Kwasi Abodakpi->Dan Abodakpi,2000-01,2001-01
++++,Q2636751,Alan Kyeremanteng,2003,2007
+->,Q2636751,Alan John Kyerematen,2003->2017-01-28,2007
++++,,Joe Baidoe-Ansah,2007,2008
+->,Q5648740,Hanna Tetteh,2009,2013->2012
++++,Q5648740,Hanna Tetteh,2012,2013
