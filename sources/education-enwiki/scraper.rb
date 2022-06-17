@@ -21,10 +21,6 @@ class OfficeholderList < OfficeholderListBase
     def empty?
       tds[2].text.to_s.empty? || super
     end
-
-    def ignore_before
-      2001
-    end
   end
 end
 
