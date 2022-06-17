@@ -21,7 +21,7 @@ class OfficeholderList < OfficeholderListBase
     end
 
     def empty?
-      raw_end.include?('?') || raw_start.include?('?') || raw_start.include?('c. ')
+      raw_end.include?('?') || raw_start.include?('?') || raw_start.include?('c. ') || too_early?
     end
   end
 end
