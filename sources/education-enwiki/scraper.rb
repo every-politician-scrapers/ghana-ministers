@@ -7,7 +7,7 @@ require 'pry'
 class OfficeholderList < OfficeholderListBase
   decorator RemoveReferences
   decorator UnspanAllTables
-  decorator WikidataIdsDecorator::Links
+  # decorator WikidataIdsDecorator::Links
 
   def header_column
     'Number'
@@ -19,7 +19,7 @@ class OfficeholderList < OfficeholderListBase
     end
 
     def empty?
-      tds[2].text.to_s.empty? || super
+      tds[2].text.tidy.empty? || tds[3].text.tidy.empty? || too_early?
     end
   end
 end
