@@ -25,7 +25,7 @@ class OfficeholderList < OfficeholderListBase
     end
 
     def empty?
-      tds[2].text.to_s.empty? || raw_end.include?('?') || raw_start.include?('?') || raw_start.include?('c. ') || super
+      tds[2].text.to_s.empty? || raw_end.include?('?') || raw_start.include?('?') || raw_start.include?('c. ') || too_early?
     end
   end
 end
