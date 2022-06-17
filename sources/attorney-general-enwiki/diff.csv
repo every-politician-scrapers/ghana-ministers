@@ -1,12 +1,6 @@
-@@,itemlabel,item,startdate,enddate
-->,Obed Yao Asamoah->Obed Asamoah,Q1311287,1997-05-01->1997-05,2001-01-06
-->,Papa Owusu-Ankomah,Q1698546,2003-01-01->2003-04-01,2005-01-01->2005
-->,Ayikoi Otoo->J. Ayikoi Otoo,Q30645013,2005-02-01,2006-01-01->2006
-->,Joe Ghartey,Q1691433,2006-06-16,2009-01-06->2009-01-07
-->,Betty Mould-Iddrisu,Q850396,2009-01-01->2009,2011-01-01->2011
-->,Martin Amidu,Q6774885,2011-01-04,2012-01-01->2012
-->,Benjamin Kumbuor->Benjamin Kunbuor,Q4888931,2012-01-25,2012-10-24
-->,Benjamin Kumbuor->Benjamin Kunbuor,Q4888931,2012-10-24,2013-01-07
-->,Marietta Brew Appiah-Opong->Marietta Brew Appiah-Oppong,Q6763215,2013-02-01->2013-02,2017-01-07
-->,Gloria Akuffo,Q997303,2017-01-21->2017-02,2021-01-06->2021-01
-->,Godfred Yeboah Dame,Q105489544,2021-01-01->2021-01,
+@@,item,itemlabel,startdate,enddate
+->,Q1698546,Papa Owusu-Ankomah,2003->2003-04-01,2005
+->,Q1691433,Joe Ghartey,2006-06-16,2009-01-06->2009-01-07
+->,Q4888931,Benjamin Kumbuor->Benjamin Kunbuor,2012-01-25,2012-10-24
+->,Q4888931,Benjamin Kumbuor->Benjamin Kunbuor,2012-10-24,2013-01-07
+->,Q997303,Gloria Akuffo,2017-01-21->2017-02,2021-01-06
