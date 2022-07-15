@@ -7,26 +7,4 @@ on:
 
 jobs:
   scheduled:
-    runs-on: ubuntu-latest
-    steps:
-    - uses: actions/checkout@v2
-    - name: Set up Ruby
-      uses: ruby/setup-ruby@v1
-      with:
-        ruby-version: 2.6
-    - name: Install OS dependencies
-      run: sudo apt-get install jq moreutils
-    - name: Install ruby dependencies
-      run: bundle install
-    - name: Run all mirroring scripts
-      run: |-
-        shopt -s globstar
-        for script in **/mirror*.sh; do bash $script; done
-    - name: Commit and push if changed
-      run: |-
-        git config user.name "Automated"
-        git config user.email "actions@users.noreply.github.com"
-        git add mirror
-        timestamp=$(date -u)
-        git commit -m "Update mirror: ${timestamp}" || exit 0
-        git push
+    uses: every-politician-scrapers/shared/.github/workflows/mirror.yml@main
