@@ -1,0 +1,138 @@
+{
+  "title": "Mohammed Adjei Sowah",
+  "pageID": 54779247,
+  "categories": [
+    "Living people",
+    "Mayors of Accra",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Mohammed Adjei Sowah is the mayor of Accra, Ghana.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Accra"
+                },
+                {
+                  "type": "internal",
+                  "page": "Ghana"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Mohammed Adjei Sowah"
+                ]
+              }
+            },
+            {
+              "text": "His appointment was confirmed on 24 March 2017 when he received 100% of the 109 votes cast in the Accra Metropolitan Assembly.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Accra Metropolitan Assembly"
+                }
+              ]
+            },
+            {
+              "text": "His major priority is to improve the sanitation of Accra, especially in relation to waste collection and disposal and sanitation infrastructure, such as landfills."
+            },
+            {
+              "text": "To do this he has supported the polluter pays system, transfer stations to aid in waste collection, and the Accra Beautification Project, which aims to improve the public open areas of the city.",
+              "links": [
+                {
+                  "text": "polluter pays system",
+                  "type": "internal",
+                  "page": "Polluter pays principle"
+                },
+                {
+                  "text": "transfer stations",
+                  "type": "internal",
+                  "page": "Transfer station (waste management)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Ghanaian politician",
+          "template": "short description"
+        }
+      ],
+      "references": [
+        {
+          "date": "2021-05-12",
+          "title": "AMA partners Gasmilla to promote good sanitation behaviour in Accra",
+          "url": "https://citinewsroom.com/2021/05/ama-partners-gasmilla-to-promote-good-sanitation-behaviour-in-accra/",
+          "access-date": "2021-05-17",
+          "website": "Citinewsroom - Comprehensive News in Ghana",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.pulse.com.gh/features/mohammed-adjei-sowah-heres-a-to-do-list-for-accra-s-new-mayor-id6422496.html",
+          "title": "Mohammed Adjei Sowah: Here\"s a to do list for Accra’s new mayor",
+          "last": "Asiedu",
+          "first": "Kwasi Gyamfi",
+          "work": "Pulse",
+          "date": "24 March 2017",
+          "accessdate": "6 August 2017",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Adjei Sowah endorsed Mayor of Accra",
+          "url": "http://www.ghanaiantimes.com.gh/adjei-sowah-endorsed-mayor-of-accra/",
+          "author": "Malik Sullemana",
+          "accessdate": "6 August 2017",
+          "work": "The Ghanaian Times",
+          "date": "24 March 2017",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "AMA announces new steps to transform Accra",
+          "url": "https://www.newsghana.com.gh/ama-announces-new-steps-to-transform-accra/",
+          "accessdate": "6 August 2017",
+          "work": "News Ghana",
+          "date": "10 May 2017}} - {{cite news|title=AMA urges support from residents to transform Accra|url=https://www.newsghana.com.gh/ama-urges-support-from-residents-to-transform-accra/|accessdate=6 August 2017|work=News Ghana|date=23 June 2017|undefined",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "people": "WRI Ross Center for Sustainable Cities",
+          "date": "5 March 2018",
+          "title": "Mohammed Adjei Sowah on New Urban Initiatives in Accra, Ghana",
+          "url": "https://www.youtube.com/watch?v=M9zHzIFIEds",
+          "accessdate": "5 April 2018",
+          "format": "YouTube video",
+          "location": "World Urban Forum 9 in Kuala Lumpur",
+          "publisher": "WRI, C40. and The Coalition for Urban Transitions",
+          "template": "citation",
+          "type": "av media"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "ghana-politician-stub"
+        }
+      ]
+    }
+  ]
+}

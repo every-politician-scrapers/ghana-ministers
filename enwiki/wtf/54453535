@@ -1,0 +1,224 @@
+{
+  "title": "Kwaku Ofori Asiamah",
+  "pageID": 54453535,
+  "categories": [
+    "Government ministers of Ghana",
+    "New Patriotic Party politicians",
+    "Living people",
+    "Cabinet Ministers of Ghana",
+    "Year of birth missing (living people)",
+    "Alumni of the Accra Academy"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Kwaku Ofori Asiamah is a Ghanaian politician.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ghanaian"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Kwaku Ofori Asiamah"
+                ]
+              }
+            },
+            {
+              "text": "He is a member of the New Patriotic Party and is currently a cabinet minister in the Nana Akuffo-Addo administration and serves as the Minister for Transport.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "New Patriotic Party"
+                },
+                {
+                  "type": "internal",
+                  "page": "Nana Akuffo-Addo"
+                },
+                {
+                  "text": "Minister for Transport",
+                  "type": "internal",
+                  "page": "Minister for Transport (Ghana)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Ghanaian politician",
+          "template": "short description"
+        },
+        {
+          "date": "December 2020",
+          "template": "use dmy dates"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Kwaku Asiamah"
+          },
+          "office": {
+            "text": "Minister for Transport",
+            "links": [
+              {
+                "text": "Minister for Transport",
+                "type": "internal",
+                "page": "Minister for Transport (Ghana)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "February 2017"
+          },
+          "president": {
+            "text": "Nana Akufo-Addo",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nana Akufo-Addo"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Dzifa Attivor",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Dzifa Attivor"
+              }
+            ]
+          },
+          "successor": {
+            "text": "Incumbent",
+            "formatting": {
+              "italic": [
+                "Incumbent"
+              ]
+            }
+          },
+          "birth_place": {
+            "text": "Ghana",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ghana"
+              }
+            ]
+          },
+          "birthname": {
+            "text": "Kwaku Ofori Asiamah"
+          },
+          "nationality": {
+            "text": "Ghanaian",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ghanaian"
+              }
+            ]
+          },
+          "party": {
+            "text": "New Patriotic Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "New Patriotic Party"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "last1": "Graphic",
+          "first1": "Daily",
+          "title": "Meet Akufo-Addo's 36 ministerial nominees",
+          "url": "http://www.ghanaweb.com/GhanaHomePage/NewsArchive/Meet-Akufo-Addo-s-36-ministerial-nominees-500657",
+          "website": "ghanaweb.com",
+          "publisher": "ghanaweb",
+          "accessdate": "3 July 2017",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last1": "Guide",
+          "first1": "Daily",
+          "title": "12 More Ministers Picked",
+          "url": "https://www.modernghana.com/news/748612/12-more-ministers-picked.html",
+          "website": "modernghana.com",
+          "publisher": "modernghana",
+          "accessdate": "3 July 2017",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Cabinet minister",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In May 2017, President Nana Akufo-Addo named Kwaku Ofori Asiamah as part of nineteen ministers who would form his cabinet.",
+              "links": [
+                {
+                  "text": "his cabinet",
+                  "type": "internal",
+                  "page": "Cabinet of Nana Akuffo-Addo"
+                }
+              ]
+            },
+            {
+              "text": "The names of the 19 ministers were submitted to the Parliament of Ghana and announced by the Speaker of the House, Rt. Hon. Prof. Mike Ocquaye.",
+              "links": [
+                {
+                  "text": "Rt. Hon. Prof. Mike Ocquaye",
+                  "type": "internal",
+                  "page": "Aaron Mike Oquaye"
+                }
+              ]
+            },
+            {
+              "text": "As a Cabinet minister, Kwaku Ofori Asiamah is part of the inner circle of the president and is to aid in key decision-making activities in the country."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "last1": "FM",
+          "first1": "Citi",
+          "title": "Arts Minister Catherine Afeku makes it to Cabinet",
+          "url": "http://www.ghanaweb.com/GhanaHomePage/entertainment/Arts-Minister-Catherine-Afeku-makes-it-to-Cabinet-542839",
+          "website": "ghanaweb.com",
+          "publisher": "ghanaweb",
+          "accessdate": "7 July 2017",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "ghana-bio-stub"
+        }
+      ]
+    }
+  ]
+}

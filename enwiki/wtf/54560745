@@ -1,0 +1,185 @@
+{
+  "title": "Salma Frances Mancell-Egala",
+  "pageID": 54560745,
+  "categories": [
+    "Ambassadors of Ghana to Turkey",
+    "Living people",
+    "Ghanaian women ambassadors",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Salma Frances Mancell-Egala is a Ghanaian diplomat and a member of the New Patriotic Party of Ghana.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ghanaian"
+                },
+                {
+                  "type": "internal",
+                  "page": "New Patriotic Party"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Salma Frances Mancell-Egala"
+                ]
+              }
+            },
+            {
+              "text": "She is currently Ghana's ambassador to Turkey."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Ghanaian diplomat",
+          "template": "short description"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "Amb."
+          },
+          "name": {
+            "text": "Salma Frances Mancell-Egala"
+          },
+          "office": {
+            "text": "Ambassador to Turkey"
+          },
+          "term_start": {
+            "text": "July 2017"
+          },
+          "president": {
+            "text": "Nana Akuffo-Addo",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nana Akuffo-Addo"
+              }
+            ]
+          },
+          "successor": {
+            "text": "Incumbent",
+            "formatting": {
+              "italic": [
+                "Incumbent"
+              ]
+            }
+          },
+          "birth_place": {
+            "text": "Ghana",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ghana"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Ghanaian",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ghanaian"
+              }
+            ]
+          },
+          "party": {
+            "text": "New Patriotic Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "New Patriotic Party"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Ambassadorial appointment",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In July 2017, President Nana Akuffo-Addo named Salma Mancell-Egala as Ghana's ambassador to Turkey.",
+              "links": [
+                {
+                  "text": "President Nana Akuffo-Addo",
+                  "type": "internal",
+                  "page": "Nana Akuffo-Addo"
+                },
+                {
+                  "type": "internal",
+                  "page": "Turkey"
+                }
+              ]
+            },
+            {
+              "text": "She was among twenty two other distinguished Ghanaians who were named to head various diplomatic Ghanaian mission in the world."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "last1": "Online",
+          "first1": "MyJOY",
+          "title": "Here's a full list of Akufo-Addo's 22 newly appointed Ambassadors",
+          "url": "http://www.myjoyonline.com/politics/2017/July-10th/heres-a-full-list-of-akufo-addos-22-newly-appointed-ambassadors.php",
+          "website": "myjoyonline.com",
+          "publisher": "myjoyonline",
+          "accessdate": "15 July 2017",
+          "archivedate": "10 July 2017",
+          "date": "2017-07-10",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last1": "Agency",
+          "first1": "Ghana News",
+          "title": "President Akufo-Addo presents credentials to 22 new ambassadors",
+          "url": "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/President-Akufo-Addo-presents-credentials-to-22-new-ambassadors-557760",
+          "website": "ghanaweb.com",
+          "publisher": "ghanaweb",
+          "accessdate": "15 July 2017",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last1": "Ghana",
+          "first1": "Presidency of",
+          "title": "President Akufo-Addo appoints 22 more Ambassadors",
+          "url": "http://presidency.gov.gh/index.php/2017/07/10/president-akufo-addo-appoints-22-more-ambassadors/",
+          "website": "presidency.gov.gh",
+          "publisher": "presidency of Ghana",
+          "accessdate": "15 July 2017",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "ghana-diplomat-stub"
+        }
+      ]
+    }
+  ]
+}
