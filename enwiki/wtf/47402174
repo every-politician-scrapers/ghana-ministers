@@ -23,7 +23,7 @@
         {
           "sentences": [
             {
-              "text": "Ursula Owusu-Ekuful (born 20 October 1964)and hails from Akim Oda in the Eastern Region of Ghana is a lawyer, women's rights activist and a Ghanaian parliamentarian representing Ablekuma West constituency.",
+              "text": "Hon. Ursula Owusu-Ekuful (born 20 October 1964)and hails from Akim Oda in the Eastern Region of Ghana is a lawyer, women's rights activist and a Ghanaian parliamentarian representing Ablekuma West constituency.",
               "links": [
                 {
                   "type": "internal",
@@ -50,7 +50,7 @@
               ],
               "formatting": {
                 "bold": [
-                  "Ursula Owusu-Ekuful"
+                  "Hon. Ursula Owusu-Ekuful"
                 ]
               }
             },
