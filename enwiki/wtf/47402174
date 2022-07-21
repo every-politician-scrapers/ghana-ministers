@@ -557,6 +557,44 @@
               ]
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "SOCIO-POLITICS",
+              "formatting": {
+                "bold": [
+                  "SOCIO-POLITICS"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2015 she and other women MPs were subject to personal attacks after there was a dispute over places reserved for women members of parliament."
+            },
+            {
+              "text": "She was reported as saying that she was considering her future in politics, but the following year she became the Minister of Communications."
+            },
+            {
+              "text": "Before her current position as the Minister of Communication, she served on different boards and in different capacities in her professional career."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In April 2018 she suffered a backlash from a section of the Ghanaian community when she made headlines for sharing a post on social media that suggested Ghanaian Muslims were intolerant."
+            },
+            {
+              "text": "On Saturday, the 29th day of September 2018, She was installed as the Nkosuohemaa (Development Queen) by the traditional leaders and the people of Akem Asuom in the Eastern Region of Ghana."
+            },
+            {
+              "text": "The instalment took place at the Palace of Asuomhene Osabarima Ofosuhene Apenteng II."
+            }
+          ]
         }
       ],
       "references": [
@@ -624,6 +662,22 @@
           "access-date": "2020-12-27",
           "website": "Graphic Online",
           "language": "en-gb",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Ursula Owusu-Ekuful, Biography",
+          "url": "https://mobile.ghanaweb.com/person/Ursula-Owusu-Ekuful-3142",
+          "access-date": "2022-07-20",
+          "website": "mobile.ghanaweb.com",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Ursula Owusu-Ekuful, Biography",
+          "url": "https://mobile.ghanaweb.com/person/Ursula-Owusu-Ekuful-3142",
+          "access-date": "2022-07-20",
+          "website": "mobile.ghanaweb.com",
           "template": "citation",
           "type": "web"
         },
