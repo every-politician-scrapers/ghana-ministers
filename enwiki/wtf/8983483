@@ -1293,9 +1293,11 @@
         {
           "url": "https://www.bloomberg.com/news/articles/2010-08-08/ghana-s-npp-chooses-akufo-addo-as-its-presidential-candidate-for-2012",
           "access-date": "2021-05-17",
-          "website": "www.bloomberg.com",
+          "newspaper": "Bloomberg.com",
+          "title": "Ghana's NPP Chooses Akufo-Addo as 2012 Presidential Candidate",
+          "date": "8 August 2010",
           "template": "citation",
-          "type": "web"
+          "type": "news"
         },
         {
           "date": "2012-12-09",
@@ -1395,9 +1397,10 @@
           "title": "Subscribe to read {{!}} Financial Times",
           "url": "https://www.ft.com/content/785703ea-be6e-11e6-8b45-b8b81dd5d080",
           "access-date": "2021-05-17",
-          "website": "www.ft.com",
+          "newspaper": "Financial Times",
+          "date": "10 December 2016",
           "template": "citation",
-          "type": "web"
+          "type": "news"
         },
         {
           "last": "Kazeem",
@@ -1406,6 +1409,7 @@
           "url": "https://qz.com/africa/858481/ghana-decides-nana-akufo-addo-has-been-elected-as-ghanas-new-president/",
           "access-date": "2021-05-17",
           "website": "Quartz",
+          "date": "9 December 2016",
           "language": "en",
           "template": "citation",
           "type": "web"
@@ -1903,6 +1907,7 @@
           "title": "I'll never legalize homosexuality – Akufo-Addo",
           "url": "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/I-ll-never-legalize-homosexuality-Akufo-Addo-675491",
           "website": "www.ghanaweb.com",
+          "date": "9 August 2018",
           "template": "citation",
           "type": "web"
         },
@@ -2643,6 +2648,7 @@
         },
         {
           "title": "Vučić uručio Orden predsedniku Gane: Dve države se dobro razumeju, potrebno proširenje saradnje - Politika - Dnevni list Danas",
+          "date": "11 October 2021",
           "url": "https://www.danas.rs/politika/vucic-urucio-orden-predsedniku-gane-dve-drzave-se-dobro-razumeju-potrebno-prosirenje-saradnje/",
           "access-date": "2021-10-11",
           "language": "sr-RS",
